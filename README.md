@@ -45,7 +45,7 @@
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="50" />  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="50" />  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="50" />
-<img style="margin: 15px" src="https://cdn.svgporn.com/logos/selenium.svg" alt="selenium" width="50" />   
+<!--<img style="margin: 15px" src="https://cdn.svgporn.com/logos/selenium.svg" alt="selenium" width="50" />-->   
 
 </div>
 <br/>
@@ -55,12 +55,12 @@
 <div align="center">  
  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" width="50" />  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" width="40" />  
+<!--<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" width="40" />-->  
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/nodejs.svg" alt="Node.js" width="35" /> 
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="50" /> 
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" width="50" />
+<!--<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" width="50" />-->
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" width="50" />    
-<img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1200px-Webysther_20160423_-_Elephpant.svg.png" alt="MySQL" width="50" />  
+<img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1200px-Webysther_20160423_-_Elephpant.svg.png" alt="PHP" width="50" />  
  
 </div>
 <br/>
@@ -68,7 +68,7 @@
 >###### <div align="center">ＤＥＶＯＰＳ/ＴＯＯＬＳ</div>
 
 <div align="center">  
-<img style="margin: 15px" src="https://cdn.svgporn.com/logos/aws.svg" alt="AWS" width="50" />  
+<!--<img style="margin: 15px" src="https://cdn.svgporn.com/logos/aws.svg" alt="AWS" width="50" />-->  
 <img style="margin: 15px" src="https://cdn.iconscout.com/icon/free/png-256/redis-83994.png" alt="REDIS" width="50" />  
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="vscode" width="50" /> 
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/microsoft-windows.svg" alt="Windows" width="50" />  
