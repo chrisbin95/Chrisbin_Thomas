@@ -1,7 +1,7 @@
 <!--START README.md-->
 ### <div align="center">**CHRISBIN THOMAS**<br/><br/>![](https://komarev.com/ghpvc/?username=chrisbin95&color=blue)</div>
-##### <div align="center">BANGALORE `<->` KERALA</div>
-##### <div align="center"> `SOFTWARE DEVELOPEMENT, TESTING, DATA SCIENCE, WEB DEVELOPEMENT, AUDIO MASTERING`</div>
+##### <div align="center">Hello there!</div>
+##### <div align="center"> `☕`</div>
 
 <br/>
 <div align="center">
