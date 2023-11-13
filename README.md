@@ -81,7 +81,7 @@
 <img style="margin: 15px" src="https://icons8.com/vue-static/landings/lunacy-new/lunacy.svg" alt="Lunacy" width="50" /> 
 <img style="margin: 15px" src="https://2.bp.blogspot.com/-91Og1JzFXQk/XYlLgeNB2LI/AAAAAAAAIxc/R95KsDWvm8QxcyznPqZfwpotw57FZ6v7gCLcBGAsYHQ/s320/Packet%2BTracer.png" alt="Packet Tracer" width="50" /> 
 <img style="margin: 15px" src="https://softwarelist.oregonstate.edu/sites/softwarelist.oregonstate.edu/files/styles/software_image/public/software/nvivo.jpg?itok=yC8lgTw8" alt="Nvivo" width="50" />
- <img style="margin: 15px" src=" https://cdn-1.webcatalog.io/catalog/replit/replit-icon-filled.png" alt="replit" width="50" /> 
+ <img style="margin: 15px" src="https://cdn-1.webcatalog.io/catalog/replit/replit-icon-filled.png" alt="replit" width="50" /> 
 </div>
 <br/>
 <div align="center">&copy; Chrisbin Thomas | 2021 - 2022</div>
